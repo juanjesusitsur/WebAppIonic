@@ -1,0 +1,7 @@
+{
+  "name": "ProjectUnite8",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
